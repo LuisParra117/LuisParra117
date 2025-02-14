@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on web development <br>I’m currently learning PHP and JS
+💻 I am a software engineering student <br>I am learning and working in web developmentI am learning and working in web development with PHP and JS
 
 
 ## 🌐 Socials:
