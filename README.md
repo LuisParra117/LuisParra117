@@ -9,16 +9,9 @@
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisParra117&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-# Pull Requests Opened
-![PRs](https://img.shields.io/github/issues-pr/LuisParra117/repository-name?style=flat-square)
-
-# Streak Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LuisParra117&theme=radical&hide_border=false)
-
-# Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisParra117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LuisParra117&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuisParra117&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisParra117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
