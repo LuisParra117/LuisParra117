@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a software engineering student <br>I am learning and working in web development with PHP and JS
+💻 I'm a software engineering student <br>I'm learning and working in web development with PHP and JS
 
 
 ## 🌐 Socials:
