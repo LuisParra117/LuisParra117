@@ -25,8 +25,6 @@
 
 # GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisParra117&layout=compact&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisParra117&show_icons=true&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisParra117&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
