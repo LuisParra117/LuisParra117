@@ -25,10 +25,8 @@
 
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisParra117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisParra117&layout=compact&theme=radical)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=LuisParra117&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisParra117&show_icons=true&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
